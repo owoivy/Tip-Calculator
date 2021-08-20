@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5F009CC8-04BE-422D-8FDE-CEB2F6C05EB9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D39C0549-CCD2-4B45-B1E9-3A9DA4D08FD6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tip Calculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D39C0549-CCD2-4B45-B1E9-3A9DA4D08FD6 - b7dccd9c5abbd54a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_Calculator.ViewController.billAmountTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Tip Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhenzhen/Desktop/Tip%20Calculator/Tip%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D39C0549-CCD2-4B45-B1E9-3A9DA4D08FD6 - 6fd4edb09075b95e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_Calculator.ViewController.billAmountTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Tip Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhenzhen/Desktop/Tip%20Calculator/Tip%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "D39C0549-CCD2-4B45-B1E9-3A9DA4D08FD6 - 44b2c6b92786721a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_Calculator.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Tip Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhenzhen/Desktop/Tip%20Calculator/Tip%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "D39C0549-CCD2-4B45-B1E9-3A9DA4D08FD6 - 7b6e0f0205eed7fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_Calculator.ViewController.billAmountTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tip Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhenzhen/Desktop/Tip%20Calculator/Tip%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "D39C0549-CCD2-4B45-B1E9-3A9DA4D08FD6 - 16dca49201dd971f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tip_Calculator.ViewController"
+                  moduleName = "Tip Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhenzhen/Desktop/Tip%20Calculator/Tip%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "D39C0549-CCD2-4B45-B1E9-3A9DA4D08FD6 - eb7786f20e7f13db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tip_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tip_Calculator.ViewController&gt;"
+                  moduleName = "Tip Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhenzhen/Desktop/Tip%20Calculator/Tip%20Calculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
